@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'nasa_bd',
         'USER': 'postgres',
         'PASSWORD': 'armand99',
-        'HOST': '34.72.82.141',
+        'HOST': '35.227.167.96',
         'PORT': '5432'
     }
 }
